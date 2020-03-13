@@ -1,0 +1,2 @@
+# goopenwrt
+Go OpenWRT module
